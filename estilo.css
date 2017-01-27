@@ -124,9 +124,10 @@
     margin-top: 50px;
     border: 1px solid #2651a8;
     background-color: #fff;
-    color: #ccc;
+    color: #2651a8;
     padding: 25px 35px;
     border-radius: 20px;
+    margin-bottom: 50px;
   }
   .textoDesc
   {
@@ -137,6 +138,19 @@
     margin-top: 10px;
     margin-bottom: 30px;
     font-weight: lighter;
+  }
+  #Pezao
+  {
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    width: auto;
+    border-top: 1px;
+  }
+  #Pezao p
+  {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.298039);
   }
   html
   {
